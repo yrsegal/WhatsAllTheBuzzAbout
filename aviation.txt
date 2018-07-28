@@ -1528,3 +1528,5 @@ What do we do now?
 Oannonball!
 We're shutting honey production!
 Mission abort.
+Aborting pollination and nectar detail.
+Returning to base.
