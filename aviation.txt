@@ -1693,3 +1693,5 @@ Attention, passengers,
 this is Oaptain Scott.
 We have a bit of bad weather
 in New York.
+It looks like we'll experience
+a couple hours delay.
