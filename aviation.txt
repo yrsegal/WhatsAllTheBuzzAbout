@@ -1870,3 +1870,5 @@ Ready? Full reverse!
 Spin it around!
 Not that flower! The other one!
 Which one?
+That flower.
+I'm aiming at the flower!
