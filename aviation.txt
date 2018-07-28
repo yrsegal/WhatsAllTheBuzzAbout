@@ -1608,3 +1608,5 @@ Roses!
 Vanessa!
 Roses?!
 Barry?
+Roses are flowers!
+Yes, they are.
